@@ -4,7 +4,8 @@
 漫剧AI自动化全套Skill，一站式完成短剧剧本生成、人物定妆、分镜、封面提示词，适配主流AI Agent平台。
 
 ## 🖼️ 效果预览
-> 后续上传截图到仓库assets目录，替换下方图片链接
+> ![效果预览](https://raw.githubusercontent.com/Miazdd/-miazdd-AIGC-/main/assets/preview.jpg)
+
 
 
 ## ✨ 项目亮点
