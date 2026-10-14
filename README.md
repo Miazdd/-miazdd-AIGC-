@@ -6,7 +6,7 @@ Flova / WorkBuddy / OpenClaw /豆包本地-豆包云端
 - 分镜脚本生成
 - 画面提示词生成
 - 配音、字幕、镜头调度
-- Seedance视频生成提示词
+- Seedance  gpt  视频生成提示词 
 
 ## 📝 使用方法
 1. 下载本项目 miazdd.zip
